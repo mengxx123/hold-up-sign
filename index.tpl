@@ -19,7 +19,7 @@
         <button type="submit">生成</button>
       </form>
       <img src="./index.png" alt="图片" width="100%" style="max-width:500px;" />
-      <div class="footer" style="margin-top:10px;">
+      <!-- <div class="footer" style="margin-top:10px;">
         <small style="color:grey;">本程序由Jokin制作，仅供学习！</small>
         <hr />
         <h5>Api</h5>
@@ -35,7 +35,7 @@
         <br />
         <a target="_blank" href="https://github.com/jokin1999/HoldUpSign">Github（推荐）</a> |
         <a target="_blank" href="https://coding.net/u/Jokin/p/IMG-HoldUpSign/git">Coding代码托管</a>
-      </div>
+      </div> -->
     </div>
   </body>
 </html>
